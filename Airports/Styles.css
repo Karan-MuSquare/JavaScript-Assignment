@@ -1,0 +1,21 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap');
+ *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+ }
+ body{
+    background-color: aliceblue;
+    height: 100vh;
+ }
+ h2{
+   text-align: center;
+   padding: 5px;
+ }
+ #airName{
+   font-size: larger;
+   font-family: "Roboto Slab";
+   font-weight: bolder;
+   margin-left: 45%;
+   padding: 2px;
+ }
